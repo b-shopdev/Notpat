@@ -1,0 +1,6 @@
+{
+  "name": "Amber Notes",
+  "description": "A beautiful light yellow minimalist themed memo pad with offline storage, accent tag lines, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
